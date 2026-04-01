@@ -200,7 +200,7 @@ export default function ResumePage() {
             Activities &amp; Interests
           </h2>
           <p className="text-slate-700 text-sm leading-relaxed">
-            Committed to daily training in the gym as a means of personal growth, discipline, and
+            Committed to daily weightlifting and bodybuilding training in the gym as a means of personal growth, discipline, and
             continual self-improvement — values that carry into every professional endeavor.
           </p>
         </section>
