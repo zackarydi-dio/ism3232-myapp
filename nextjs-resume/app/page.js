@@ -90,7 +90,7 @@ export default function ResumePage() {
                 <span className="text-sm text-slate-400 whitespace-nowrap ml-4">2023 – Present</span>
               </div>
               <ul className="list-disc list-inside text-slate-700 text-sm space-y-1">
-                <li>Manage and operate an independent online store with 2,500+ items sold.</li>
+                <li>Manage and operate an independent online store with 2,500+ items sold and 600+ 5 Star Reviews.</li>
                 <li>Handle inventory sourcing, product photography, pricing strategy, and customer service.</li>
                 <li>Maintain strong seller ratings through consistent communication and fast fulfillment.</li>
               </ul>
